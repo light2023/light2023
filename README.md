@@ -24,7 +24,7 @@ decision-making. My portfolio reflects my dedication to delivering actionable in
 
 ### [Diversity & Inclusion at PwC](https://github.com/light2023/Data_Analysis_Projects/blob/main/Diversity_Inclusion/Diversity_Inclusion_README.md)
 ![power Bi](https://github.com/user-attachments/assets/ef1bd49b-b2dc-481d-a841-c0057cf6c2a8)
-- **Tools Used**: SQL, Excel, Power BI
+- **Tools Used**:  Excel, Power BI
 - **Summary**: Analyzed gender balance in the executive suite at PwC. Provided recommendations for improving diversity and retention.
 
 ### [Customer Retention Analysis](https://github.com/light2023/Data_Analysis_Projects/blob/main/Customers_Retention/CustomersRetention_README.md)
