@@ -4,7 +4,6 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-
 # Anugwom Chinenye Georgina - Data Scientist & Tech Professional
 ![Untitled design (1)](https://github.com/user-attachments/assets/8c0d9926-3f02-4a05-aa9a-5fe68cc3f7be)
 
