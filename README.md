@@ -2,7 +2,8 @@
 ![Untitled design (1)](https://github.com/user-attachments/assets/8c0d9926-3f02-4a05-aa9a-5fe68cc3f7be)
 
 
-Welcome to my GitHub profile! I'm Anugwom Chinenye Georgina, a passionate data scientist, data analyst, and Python developer with a strong background in economics and data-driven decision-making. My portfolio reflects my dedication to delivering actionable insights and driving innovation across various domains.
+Welcome to my GitHub profile! I'm Anugwom Chinenye Georgina, a passionate data scientist, data analyst, and Python developer with a strong background in economics and data-driven 
+decision-making. My portfolio reflects my dedication to delivering actionable insights and driving innovation across various domains.
 
 ## 🛠 Tools & Technologies
 
