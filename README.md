@@ -52,7 +52,7 @@ decision-making. My portfolio reflects my dedication to delivering actionable in
 
 ## 📬 Contact Me
 - **Email**: anugwomchinenye@gmail.com
-- **LinkedIn**: [Anugwom Chinenye Georgina](www.linkedin.com/in/chinenye-anugwom-data-analytics)
+- **LinkedIn**: [Anugwom Chinenye Georgina](https://www.linkedin.com/in/chinenye-anugwom-data-analytics?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - **Portfolio**: [Visit My Portfolio](https://chinenyelight.my.canva.site/)
 
 ![Untitled design](https://github.com/user-attachments/assets/ec6213c7-fa53-4b43-8e56-d0424cb99cdc)
