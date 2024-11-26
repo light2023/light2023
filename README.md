@@ -47,8 +47,8 @@ decision-making. My portfolio reflects my dedication to delivering actionable in
 ## 🧑‍💻 About Me
 - **Location**: Nigeria
 - **Experience**: Over a decade of experience in data analysis, financial modeling, and economic research.
-- **Education**: Master's degree in Economics, certifications in Data Science, SQL, and Advanced Data Visualization.
-- **Current Role**: Data Analyst intern in HNG Limited Tech
+- **Education**: Master's degree in Economics, Certifications in Data Science, Python, SQL, and Advanced Data Visualization.
+- **Current Role**: Data Analyst in HNG Limited Tech
 
 ## 📬 Contact Me
 - **Email**: anugwomchinenye@gmail.com
